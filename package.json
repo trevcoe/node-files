@@ -1,0 +1,11 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trevor",
+  "license": "ISC"
+}
